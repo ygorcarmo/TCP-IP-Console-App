@@ -1,0 +1,16 @@
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\bin\Debug\net5.0\TCPIPServer.exe
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\bin\Debug\net5.0\TCPIPServer.deps.json
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\bin\Debug\net5.0\TCPIPServer.runtimeconfig.json
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\bin\Debug\net5.0\TCPIPServer.runtimeconfig.dev.json
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\bin\Debug\net5.0\TCPIPServer.dll
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\bin\Debug\net5.0\ref\TCPIPServer.dll
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\bin\Debug\net5.0\TCPIPServer.pdb
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\obj\Debug\net5.0\TCPIPServer.csproj.AssemblyReference.cache
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\obj\Debug\net5.0\TCPIPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\obj\Debug\net5.0\TCPIPServer.AssemblyInfoInputs.cache
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\obj\Debug\net5.0\TCPIPServer.AssemblyInfo.cs
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\obj\Debug\net5.0\TCPIPServer.csproj.CoreCompileInputs.cache
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\obj\Debug\net5.0\TCPIPServer.dll
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\obj\Debug\net5.0\ref\TCPIPServer.dll
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\obj\Debug\net5.0\TCPIPServer.pdb
+C:\Users\ygorc\source\repos\TCPIPProject\TCPIPServer\obj\Debug\net5.0\TCPIPServer.genruntimeconfig.cache
